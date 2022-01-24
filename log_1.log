@@ -2,3 +2,60 @@
 2022-01-20 19:36:42,453 : [ERROR] : [WinError 3] Системе не удается найти указанный путь: '2020-11-31.txt' -> '2020/11/31.txt'
 2022-01-20 19:37:44,837 : [INFO] : start program
 2022-01-20 19:37:44,850 : [INFO] : finish program
+2022-01-24 17:38:14,642 : [INFO] : start program
+2022-01-24 17:38:14,648 : [INFO] : finish program
+2022-01-24 18:03:48,105 : [INFO] : start program
+2022-01-24 18:05:24,463 : [INFO] : start program
+2022-01-24 18:05:38,764 : [INFO] : start program
+2022-01-24 18:05:44,582 : [INFO] : start program
+2022-01-24 18:06:01,750 : [INFO] : start program
+2022-01-24 18:06:07,945 : [INFO] : start program
+2022-01-24 18:07:38,082 : [INFO] : start program
+2022-01-24 18:10:19,704 : [INFO] : start program
+2022-01-24 18:11:13,531 : [INFO] : start program
+2022-01-24 18:11:13,532 : [ERROR] : 'str' object has no attribute 'parent'
+2022-01-24 18:11:37,297 : [INFO] : start program
+2022-01-24 18:11:37,302 : [ERROR] : 'str' object has no attribute 'parent'
+2022-01-24 18:12:13,892 : [INFO] : start program
+2022-01-24 18:22:16,708 : [INFO] : start program
+2022-01-24 18:23:09,933 : [INFO] : start program
+2022-01-24 18:23:50,171 : [INFO] : start program
+2022-01-24 19:29:57,836 : [INFO] : start program
+2022-01-24 19:31:10,313 : [INFO] : start program
+2022-01-24 19:31:18,766 : [INFO] : start program
+2022-01-24 19:31:27,838 : [INFO] : start program
+2022-01-24 19:32:11,434 : [INFO] : start program
+2022-01-24 19:32:52,068 : [INFO] : start program
+2022-01-24 19:41:22,445 : [INFO] : start program
+2022-01-24 20:01:33,023 : [INFO] : start program
+2022-01-24 20:01:33,023 : [ERROR] : unsupported operand type(s) for +: 'WindowsPath' and 'str'
+2022-01-24 20:01:45,324 : [INFO] : start program
+2022-01-24 20:01:45,325 : [ERROR] : unsupported operand type(s) for +: 'WindowsPath' and 'str'
+2022-01-24 20:01:51,672 : [INFO] : start program
+2022-01-24 20:01:51,672 : [ERROR] : unsupported operand type(s) for +: 'WindowsPath' and 'str'
+2022-01-24 20:02:04,427 : [INFO] : start program
+2022-01-24 20:02:04,428 : [ERROR] : unsupported operand type(s) for +: 'WindowsPath' and 'str'
+2022-01-24 20:03:46,090 : [INFO] : start program
+2022-01-24 20:03:46,091 : [ERROR] : unsupported operand type(s) for +: 'WindowsPath' and 'str'
+2022-01-24 20:04:24,787 : [INFO] : start program
+2022-01-24 20:05:22,539 : [INFO] : start program
+2022-01-24 20:05:22,541 : [INFO] : finish program
+2022-01-24 20:05:22,542 : [INFO] : finish program
+2022-01-24 20:05:22,543 : [INFO] : finish program
+2022-01-24 20:08:05,249 : [INFO] : start program
+2022-01-24 20:08:05,251 : [INFO] : finish program
+2022-01-24 20:08:05,253 : [INFO] : finish program
+2022-01-24 20:08:05,254 : [INFO] : finish program
+2022-01-24 20:08:05,255 : [INFO] : finish program
+2022-01-24 20:08:05,256 : [INFO] : finish program
+2022-01-24 20:08:05,258 : [INFO] : finish program
+2022-01-24 20:08:05,259 : [INFO] : finish program
+2022-01-24 20:08:05,261 : [INFO] : finish program
+2022-01-24 20:08:05,263 : [INFO] : finish program
+2022-01-24 20:08:05,264 : [INFO] : finish program
+2022-01-24 20:08:29,095 : [INFO] : start program
+2022-01-24 20:08:29,103 : [INFO] : finish program
+2022-01-24 20:09:17,430 : [INFO] : start program
+2022-01-24 20:09:17,437 : [INFO] : finish program
+2022-01-24 20:09:38,946 : [INFO] : start program
+2022-01-24 20:09:38,960 : [INFO] : finish program

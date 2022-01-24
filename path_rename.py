@@ -1,5 +1,5 @@
-import glob, os
 import logging
+from pathlib import Path
 
 logfile = 'log_1.log'
 
@@ -12,10 +12,11 @@ log.addHandler(FH)
 
 log.info("start program")
 
-try:
-    os.chdir("directory")
-    for file in glob.glob("*.txt"):
-        os.rename(file,file.replace('-','/'))
+try:    
+    for x in Path('directory/').iterdir():
+        p = x.parent / (x.stem.replace('-', '/') + '.txt')
+        p.parent.mkdir(parents=True, exist_ok=True)
+        x.rename(p)   
     log.info("finish program")
 except Exception as Ex:
-	log.error(Ex)        
+	log.error(Ex)
